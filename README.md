@@ -28,6 +28,7 @@ Once you have downloaded this template, update this README to reflect your actua
 
 A few things to update right away:
 - [ ] Change the title and description to match your project
+- [ ] Change the `.Rproj` name to match your local folder
 - [ ] Add your name and contact info
 - [ ] Update `data/raw/README.md` with your actual data sources
 - [ ] Update `manuscript/references.bib` with your own citations

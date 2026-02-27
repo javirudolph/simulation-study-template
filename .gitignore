@@ -1,5 +1,6 @@
 # Raw data - privacy and sharing
 data/raw/
+!data/raw/README.md
 
 # Heavy R objects
 *.RData
